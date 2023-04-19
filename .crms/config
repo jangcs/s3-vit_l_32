@@ -1,0 +1,16 @@
+git:
+  remote: git@github.com:jangcs/s3-vit_l_32.git
+dvc:
+  remote: s3://crms-models/s3-vit_l_32
+platform:
+  architecture: x86_64
+  os: linux
+  version: ''
+  device: cpu
+model:
+  name: s3-vit_l_32
+  tag: ''
+#labels : 
+#  label_key1: lavel_value1
+#  label_key2: lavel_value2
+#  resolution: 640x480(sample)

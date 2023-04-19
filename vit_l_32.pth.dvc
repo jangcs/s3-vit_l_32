@@ -1,0 +1,4 @@
+outs:
+- md5: ffc96b264dfcf1873ff3300db394b30e
+  size: 1226256113
+  path: vit_l_32.pth
